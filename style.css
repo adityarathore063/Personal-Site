@@ -1,0 +1,60 @@
+body{
+    background-color: #ecf2f9;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: 0%;
+}
+.my_title{
+    font-family: 'Sacramento', cursive;
+    font-size: 63px;
+    color: #1cc5dc;
+    text-align: left;
+    width: 390px;
+    margin: 0%;
+    padding-left: 100px;
+    padding-top: 150px;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    width: 390px;
+    margin: 0%;
+    padding-left: 150px;
+}
+.Top_class_container{    
+    height: 500px;
+    background-image: url(prg.jpg);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position:right ;
+    background-size: 600px;
+}
+.profile{
+    background-color: #f5dede;
+    height: 400px;
+    margin: 0%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.aditya_img{
+    height: 400px;
+    position: absolute;
+    left: 80px;
+    clip-path: circle();
+    overflow: hidden;
+}
+.about{
+    width: 450px;
+    padding-left: 550px;
+    text-align: justify;
+    line-height: 0.8cm;
+    color: black;
+}
+.about-heading{
+    margin: 0%;
+    padding-top: 140px ;
+    font-size: 40px;
+    padding-right: 50px;
+}
